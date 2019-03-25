@@ -9,7 +9,11 @@
  */
 
 // Your code :
+function multiply (a, b){
+    return Math.imul (a, b);
 
+}
+return false
 //* Begin of tests
 const assert = require('assert')
 
