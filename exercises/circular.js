@@ -8,6 +8,9 @@
  */
 
 // Your code :
+let circular = Object('circular');
+return circular;
+
 
 //* Begin of tests
 const assert = require('assert')

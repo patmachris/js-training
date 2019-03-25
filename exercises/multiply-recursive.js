@@ -10,7 +10,14 @@
  */
 
 // Your code :
-
+function multiply (a, b){
+    let total = 0;
+    for (let i=0 ; i < number.length; i++){
+        total = total + (number[i]);
+    return Math.imul (a, b);
+    }
+}
+return false 
 //* Begin of tests
 const assert = require('assert')
 
